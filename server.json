@@ -16,6 +16,15 @@
             "category": "Alimentação",
             "price": 50,
             "createdAt": "2023-06-10T20:02:55.209Z"
+        },
+
+        {
+            "id": 3,
+            "description": "Motel",
+            "type": "outcome",
+            "category": "Diversão",
+            "price": 200,
+            "createdAt": "2023-06-14T20:02:55.209Z"
         }
     ]
 }
