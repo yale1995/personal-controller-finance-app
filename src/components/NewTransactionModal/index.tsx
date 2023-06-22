@@ -4,7 +4,6 @@ import * as z from 'zod'
 import { X, ArrowCircleDown, ArrowCircleUp } from 'phosphor-react'
 import { Controller, useForm } from 'react-hook-form'
 import { zodResolver } from '@hookform/resolvers/zod'
-import { api } from '../../lib/axios'
 
 import {
   CloseButton,
